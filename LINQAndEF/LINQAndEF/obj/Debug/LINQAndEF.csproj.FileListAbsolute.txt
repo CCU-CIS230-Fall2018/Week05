@@ -1,0 +1,14 @@
+C:\Users\Keaton Helm\Source\Repos\Week05\LINQAndEF\LINQAndEF\bin\Debug\Northwind.mdf
+C:\Users\Keaton Helm\Source\Repos\Week05\LINQAndEF\LINQAndEF\bin\Debug\Northwind_log.ldf
+C:\Users\Keaton Helm\Source\Repos\Week05\LINQAndEF\LINQAndEF\bin\Debug\LINQAndEF.exe.config
+C:\Users\Keaton Helm\Source\Repos\Week05\LINQAndEF\LINQAndEF\bin\Debug\LINQAndEF.exe
+C:\Users\Keaton Helm\Source\Repos\Week05\LINQAndEF\LINQAndEF\bin\Debug\LINQAndEF.pdb
+C:\Users\Keaton Helm\Source\Repos\Week05\LINQAndEF\LINQAndEF\bin\Debug\EntityFramework.dll
+C:\Users\Keaton Helm\Source\Repos\Week05\LINQAndEF\LINQAndEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Keaton Helm\Source\Repos\Week05\LINQAndEF\LINQAndEF\bin\Debug\EntityFramework.xml
+C:\Users\Keaton Helm\Source\Repos\Week05\LINQAndEF\LINQAndEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Keaton Helm\Source\Repos\Week05\LINQAndEF\LINQAndEF\obj\Debug\LINQAndEF.csprojAssemblyReference.cache
+C:\Users\Keaton Helm\Source\Repos\Week05\LINQAndEF\LINQAndEF\obj\Debug\LINQAndEF.csproj.CoreCompileInputs.cache
+C:\Users\Keaton Helm\Source\Repos\Week05\LINQAndEF\LINQAndEF\obj\Debug\LINQAndEF.csproj.CopyComplete
+C:\Users\Keaton Helm\Source\Repos\Week05\LINQAndEF\LINQAndEF\obj\Debug\LINQAndEF.exe
+C:\Users\Keaton Helm\Source\Repos\Week05\LINQAndEF\LINQAndEF\obj\Debug\LINQAndEF.pdb
