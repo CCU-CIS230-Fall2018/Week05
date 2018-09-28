@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -16,7 +16,7 @@ namespace LINQAndEF
     /// </typeparam>
     public class DataRepository<TEntity> : IDisposable where TEntity : class
     {
-        NorthwindModel context;
+        week5 context;
         DbSet<TEntity> set;
 
         /// <summary>
@@ -24,7 +24,7 @@ namespace LINQAndEF
         /// </summary>
         public DataRepository()
         {
-            context = new NorthwindModel();
+            context = new week5();
             set = context.Set<TEntity>();
         }
 
